@@ -1,4 +1,4 @@
-let goals = 3
+// let goals = 3
 let goals = "3"
 let variable = "abc"
 let goalsInNumber = Number(goals)
